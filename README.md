@@ -13,4 +13,4 @@ Sou um Full-stack developer, aprendendo e construindo projetos no dia a dia. Gos
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chakur1)
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=Chakur1&show_icons=true)
