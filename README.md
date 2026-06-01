@@ -5,8 +5,11 @@ Sou um Full-stack developer, aprendendo e construindo projetos no dia a dia. Gos
 
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+
 👨‍💻 Desenvolvedor em formação
+
 🌐 Focado em desenvolvimento full-stack
+
 📫 Email: ppchakur@gmail.com
 ## Informações para contato:
 ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
