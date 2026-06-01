@@ -1,5 +1,5 @@
 ## Olá, meu nome é Pedro Chakur! 👋
-Atualmente sou Estudante de Análise e Desenvolvimento de Sistemas, cursando o terceiro semestre. 
+Sou um Full-stack developer, aprendendo e construindo projetos no dia a dia. Gosto de trabalhar tanto no front-end quanto no back-end, entendendo como tudo se conecta.
 
 
 
