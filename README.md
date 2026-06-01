@@ -8,4 +8,4 @@ Atualmente sou Estudante de Análise e Desenvolvimento de Sistemas, cursando o t
 
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Chakur1 GitHub stats](https://github-readme-stats.vercel.app/api?username=Chakur1&show_icons=true&theme=radical)
